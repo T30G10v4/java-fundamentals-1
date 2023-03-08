@@ -36,5 +36,7 @@ public class FizzBuzz {
             System.out.println(fizzBuzz);
 
         }
+
+        scan.close();
     }
 }

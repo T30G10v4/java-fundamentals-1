@@ -36,6 +36,8 @@ public class TrainTicket {
 
         }
 
+        scan.close();
+
     }
 
 }
